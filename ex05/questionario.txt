@@ -1,1 +1,37 @@
- 
+1) Qual método HTTP é utilizado para atualizar um registro existente no banco de dados?
+a) POST
+b) GET
+c) PUT
+d) DELETE
+
+2) O que a função atualizarNovoPost no controller faz?
+a) Cria um novo post
+b) Atualiza um post existente com novos dados
+c) Deleta um post
+d) Busca um post pelo ID
+
+3) Como a URL da imagem é construída no projeto?
+a) Usando um caminho fixo
+b) Dinamicamente usando o ID do post
+c) Através de uma variável global
+d) Com base na data de upload
+
+4) Qual é o propósito do serviço geminiService.js?
+a) Gerar imagens
+b) Interagir com a API do Google Gemini para gerar descrições
+c) Fazer upload de arquivos
+d) Armazenar dados no MongoDB
+
+5) O que deve ser feito para garantir que as variáveis de ambiente sejam acessíveis durante o deploy na Google Cloud?
+a) Colocá-las em um arquivo de texto
+b) Remover o arquivo .gitignore
+c) Colocá-las entre aspas duplas no arquivo .env
+d) Criar um novo arquivo de configuração
+
+respostas
+
+1-> C
+2-> B
+3-> B
+4-> B
+5-> C

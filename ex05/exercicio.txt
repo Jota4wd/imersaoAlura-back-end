@@ -1,1 +1,7 @@
- 
+Crie uma nova rota: Adicione uma rota DELETE /posts/:id no seu servidor para permitir a exclusão de um post com base no seu ID.
+
+Implemente a função: No seu controller, crie uma função chamada deletarPost que utilize o método deleteOne do MongoDB para remover o post do banco de dados.
+
+Teste a rota: Use o Postman para enviar uma requisição DELETE para a nova rota e verifique se o post foi realmente removido do banco de dados.
+
+Retorne uma resposta: Certifique-se de que a função retorna uma resposta adequada, como uma mensagem de sucesso ou erro.
