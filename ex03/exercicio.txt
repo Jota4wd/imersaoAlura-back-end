@@ -1,0 +1,13 @@
+Claro! Que tal você criar uma nova coleção no MongoDB chamada "usuarios"?
+
+Aqui está o que você pode fazer:
+
+Crie a coleção "usuarios" no MongoDB Atlas, assim como você fez com a coleção "posts".
+Defina os campos que cada usuário deve ter. Por exemplo:
+nome (string)
+email (string)
+senha (string)
+dataDeCadastro (data)
+Insira pelo menos três documentos nessa nova coleção com dados fictícios de usuários.
+Crie uma nova rota no seu servidor Express que retorne todos os usuários da coleção "usuarios" quando acessada.
+Esse exercício vai te ajudar a praticar a criação de coleções e a manipulação de dados no MongoDB, além de reforçar o que você aprendeu sobre rotas e a estrutura do seu projeto. Boa sorte!

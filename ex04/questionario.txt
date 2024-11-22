@@ -1,0 +1,37 @@
+1) Quais são os quatro verbos HTTP principais?
+a) GET, POST, PUT, DELETE
+b) CREATE, READ, UPDATE, DELETE
+c) SEND, RECEIVE, UPDATE, DELETE
+d) GET, SEND, UPDATE, DELETE
+
+2) O que é o req.body em uma requisição HTTP?
+a) O cabeçalho da requisição
+b) O corpo da requisição, onde os dados são enviados
+c) O status da requisição
+d) O método HTTP utilizado
+
+3) Qual é a função do try e catch no código?
+a) Para criar novas rotas
+b) Para manipular o banco de dados
+c) Para tratar exceções e evitar que o sistema trave
+d) Para enviar dados para o cliente
+
+4) O que o multer faz em uma aplicação Node.js?
+a) Conecta ao banco de dados
+b) Gerencia o sistema de arquivos e uploads de arquivos
+c) Cria rotas para a aplicação
+d) Realiza requisições HTTP
+
+5) Qual é a diferença entre app.get e app.post?
+a) app.get é usado para enviar dados, enquanto app.post é usado para receber dados
+b) app.get é usado para buscar dados, enquanto app.post é usado para enviar dados
+c) Não há diferença, ambos fazem a mesma coisa
+d) app.get é usado para deletar dados, enquanto app.post é usado para atualizar dados
+
+respostas
+
+1-> A
+2-> B
+3-> C
+4-> B
+5-> B

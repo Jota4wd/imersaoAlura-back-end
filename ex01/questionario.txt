@@ -1,0 +1,43 @@
+Claro! Aqui estão algumas perguntas de múltipla escolha para testar seu conhecimento sobre a aula:
+
+1) O que é um servidor?
+a) Um tipo de software que roda apenas no navegador
+b) Um computador que armazena informações e responde a solicitações
+c) Um banco de dados que guarda informações
+d) Um sistema operacional específico
+
+2) Qual comando é utilizado para inicializar um projeto Node.js?
+a) npm start
+b) npm init
+c) node start
+d) node init
+
+3) O que é o Express?
+a) Um banco de dados
+b) Um framework para criar servidores em Node.js
+c) Uma linguagem de programação
+d) Um sistema operacional
+
+4) O que significa o status 200 em uma resposta HTTP?
+a) Erro no servidor
+b) Requisição não encontrada
+c) Requisição bem-sucedida
+d) Acesso negado
+
+5) Qual é a função do arquivo package.json em um projeto Node.js?
+a) Armazenar imagens do projeto
+b) Descrever o projeto e suas dependências
+c) Executar o código do projeto
+d) Criar o banco de dados do projeto
+
+Espero que essas perguntas ajudem a reforçar seu aprendizado! Se precisar de mais alguma coisa, é só avisar.
+
+respostas:
+
+1-> B
+2-> B
+3-> B
+4-> C
+5-> B
+
+

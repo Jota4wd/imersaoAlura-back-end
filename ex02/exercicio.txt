@@ -1,0 +1,9 @@
+Claro! Que tal você criar uma nova rota na sua aplicação que retorne apenas os posts que contêm uma palavra-chave específica na descrição?
+
+Aqui está um passo a passo para você seguir:
+
+Crie uma nova rota, por exemplo, /posts/search.
+Essa rota deve aceitar um parâmetro de consulta (query parameter) chamado keyword.
+Utilize o método filter do JavaScript para filtrar os posts que contêm a palavra-chave na descrição.
+Retorne os posts filtrados em formato JSON.
+Dessa forma, você vai praticar o uso de rotas, parâmetros e manipulação de arrays. Boa sorte e divirta-se codando! Se precisar de ajuda, estou aqui!

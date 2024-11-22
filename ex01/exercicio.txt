@@ -1,0 +1,12 @@
+Claro! Que tal fazer um exercício onde você cria um servidor básico usando o Express, mas com algumas modificações?
+
+Exercício:
+
+Crie um novo arquivo chamado server.js em uma pasta chamada meu-servidor.
+Instale o Express usando o comando npm install express.
+No seu server.js, configure o servidor para escutar na porta 4000.
+Crie duas rotas:
+A primeira rota deve ser /hello e deve retornar um JSON com a mensagem "Olá, bem-vindo à minha aplicação!".
+A segunda rota deve ser /goodbye e deve retornar um JSON com a mensagem "Até logo, espero te ver novamente!".
+Teste suas rotas acessando http://localhost:4000/hello e http://localhost:4000/goodbye no seu navegador.
+Esse exercício vai te ajudar a praticar a criação de rotas e a manipulação de respostas em JSON! Se precisar de ajuda, estou aqui! 😊

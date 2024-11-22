@@ -1,0 +1,11 @@
+Aqui estão algumas diretrizes para o exercício:
+
+Crie uma nova rota: Utilize o verbo HTTP PUT para a rota /posts/:id, onde :id é o identificador do post que você deseja atualizar.
+
+Controller: No controller, crie uma função chamada atualizarPost que receberá o id do post e os novos dados (como descrição, URL e alt) no corpo da requisição.
+
+Atualização no banco: Utilize o método updateOne do MongoDB para atualizar o post correspondente ao id fornecido.
+
+Tratamento de erros: Não esqueça de implementar o tratamento de exceções com try e catch, retornando um status apropriado em caso de erro.
+
+Teste: Use o Postman ou outra ferramenta de sua escolha para testar a nova funcionalidade, enviando uma requisição PUT com os dados atualizados.

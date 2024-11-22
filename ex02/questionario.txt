@@ -1,0 +1,38 @@
+1) O que significa o código de status HTTP 200?
+a) Recurso não encontrado
+b) Requisição bem-sucedida
+c) Erro do servidor
+d) Requisição não autorizada
+
+2) Qual é a função do método app.use(express.json()) no Express?
+a) Enviar dados para o cliente
+b) Converter dados recebidos em formato JSON
+c) Criar uma nova rota
+d) Encerrar o servidor
+
+3) O que é um "mock" em programação?
+a) Um tipo de erro no código
+b) Um objeto falso usado para testes
+c) Um método de segurança
+d) Um framework de desenvolvimento
+
+4) Como podemos identificar um post específico em um array de objetos?
+a) Usando o índice do array
+b) Através de um identificador único (ID)
+c) Usando o nome do post
+d) Não é possível identificar um post específico
+
+5) Qual é a principal vantagem de usar um banco de dados em vez de um array fixo para armazenar dados?
+a) Os dados são mais fáceis de visualizar
+b) Os dados não são perdidos quando o servidor é reiniciado
+c) É mais rápido acessar os dados
+d) Não há necessidade de escrever código
+
+respostas:
+
+1-> B
+2-> B
+3-> B
+4-> B
+5-> B
+

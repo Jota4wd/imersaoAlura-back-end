@@ -1,0 +1,51 @@
+1) Qual comando é utilizado para instalar pacotes no Node.js?
+A) npm add
+B) npm install
+C) npm get
+D) npm update
+
+2) O que é o MongoDB?
+A) Um sistema operacional
+B) Um banco de dados relacional
+C) Um banco de dados NoSQL
+D) Uma linguagem de programação
+
+3) Qual é a função do arquivo .env em um projeto Node.js?
+A) Armazenar arquivos de imagem
+B) Proteger informações sensíveis como chaves de API
+C) Criar rotas para a aplicação
+D) Gerar o código do servidor
+
+4) O que a palavra-chave async indica em uma função?
+A) Que a função é síncrona
+B) Que a função pode retornar uma promise
+C) Que a função não pode ser chamada
+D) Que a função deve ser executada imediatamente
+
+5) Qual é o propósito do método find() no MongoDB?
+A) Inserir novos dados
+B) Atualizar dados existentes
+C) Buscar documentos em uma coleção
+D) Deletar documentos de uma coleção
+
+6) O que significa a expressão await em JavaScript?
+A) Esperar que uma função seja executada antes de continuar
+B) Executar uma função imediatamente
+C) Ignorar a execução de uma função
+D) Criar uma nova função
+
+7) Qual é a estrutura padrão de separação de responsabilidades em uma aplicação Node.js?
+A) Model, View, Controller
+B) Route, Controller, Model
+C) View, Controller, Service
+D) Service, Repository, Controller
+
+respostas:
+
+1-> B
+2-> C
+3-> B
+4-> B
+5-> C
+6-> C
+7-> B
